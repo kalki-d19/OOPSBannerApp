@@ -34,5 +34,6 @@ public class OOPsBannerApp {
     static String[] getS() {
         return new String[]{" ***** ", " *     ", " *     ", " ***** ", "     * ", "     * ", " ***** "};
     }
-
+    
+  
 }
