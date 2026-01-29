@@ -3,7 +3,14 @@ package bridgelabz;
 public class OOPsBannerApp {
 
 	public static void main(String[] args) {
-		System.out.println("Bridgelabz");
-	}
+
+        System.out.println(" *****   *****   ****    ***** ");
+        System.out.println(" *   *   *   *   *   *   *     ");
+        System.out.println(" *   *   *   *   *   *   *     ");
+        System.out.println(" *   *   *   *   ****    ***** ");
+        System.out.println(" *   *   *   *   *           * ");
+        System.out.println(" *   *   *   *   *           * ");
+        System.out.println(" *****   *****   *       ***** ");
+    }
 
 }
